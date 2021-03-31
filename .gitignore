@@ -1,6 +1,7 @@
 # custom
 
 .env.*
+mail_log.json
 
 # -----------------------
 # Default ignore for NodeJS projects
