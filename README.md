@@ -1,6 +1,8 @@
 # Email Notifier Discord Bot
 
-A simple Discord bot that notifies you when you receive an email. By default, the bot will @everyone in the system messages channel, however, you can optionally mention any role of your choice. The primary use case is for clubs that frequently send emails and also have their own Discord server. This way, members can be notified and reminded to check their emails.
+A simple Discord bot that notifies you when you receive an email. 
+
+By default, the bot will @everyone in the system messages channel, however, you can optionally mention any role of your choice. The primary use case is for clubs that frequently send emails and also have their own Discord server. This way, members can be notified and reminded to check their emails.
 
 ## Installation
 
