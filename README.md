@@ -21,7 +21,7 @@ npm install
 
 ## Configuration
 
-To setup the bot, either set the following values in the `.env` file or set the corresponding environment variables.
+To setup the bot, rename the `.env.example` file to `.env` and either set the following values in the file or set the corresponding environment variables.
 
 **NOTE:** You must enable IMAP for your email address. Your provider should give you the necessary details
 
