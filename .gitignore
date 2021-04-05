@@ -1,7 +1,10 @@
 # custom
-
-.env.*
+.env
 mail_log.json
+
+# local env files
+.env.local
+.env.*.local
 
 # -----------------------
 # Default ignore for NodeJS projects
